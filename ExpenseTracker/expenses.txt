@@ -1,0 +1,11 @@
+2025-01-02|Food|120.0|Breakfast dosa
+2025-01-03|Travel|50.0|Auto fare
+2025-01-05|Groceries|680.0|Weekly vegetables
+2025-01-06|Entertainment|300.0|Movie ticket
+2025-01-10|Food|220.0|Lunch with friends
+2025-01-11|Shopping|1450.0|New shoes
+2025-01-14|Travel|200.0|Cab to college
+2025-01-16|Health|90.0|Medicines
+2025-01-18|Bills|799.0|Mobile recharge
+2025-01-20|Gifts|350.0|Birthday gift for friend
+2025-01-22|Food|100.0|Coffee
